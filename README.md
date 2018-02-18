@@ -1,6 +1,8 @@
 # marvel react-native
 This project is a sample to build a react native app that uses the marvel api.
 * WIP
+* api
+  * https://developer.marvel.com/docs
 
 # License
 MIT License
