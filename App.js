@@ -10,7 +10,6 @@ export default class App extends React.Component {
         <Text>Shake your phone to open the developer menu.</Text>
 
         <Text>Hello world!</Text>
-        
       </View>
     );
   }
@@ -21,6 +20,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
-    justifyContent: 'center',
-  },
+    justifyContent: 'center'
+  }
 });
