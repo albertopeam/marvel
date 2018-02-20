@@ -1,10 +1,21 @@
 # marvel react-native
+
+## Intro
+
 This project is a sample to build a react native app that uses the marvel api.
+
 * WIP
-* api
+  * UI
+    * list of marvel characters
+      * show 100
+      * paginate results
+  * GATEWAY
+    * fetch characters
+* API
   * https://developer.marvel.com/docs
 
-# License
+## License
+
 MIT License
 
 Copyright (c) 2018 Alberto Penas Amor
